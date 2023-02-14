@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/circle.xml" value="0.2115" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/circle_pink.xml" value="0.2115" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/circle_purple.xml" value="0.2115" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2115" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.13" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/login_but.xml" value="0.1" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/login_button.xml" value="0.2115" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/one_line.xml" value="0.148" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/pink.xml" value="0.147" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/pink_but.xml" value="0.148" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/pink_button.xml" value="0.2115" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/purple.xml" value="0.148" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/purple_but.xml" value="0.148" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/purple_button.xml" value="0.2115" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/rectangle.xml" value="0.148" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/rounded_corners.xml" value="0.147" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/rounded_corners_pink.xml" value="0.2115" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/rounded_corners_purple.xml" value="0.1065" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/rounded_corners_white.xml" value="0.129" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/sample.xml" value="0.2115" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/drawable/square.xml" value="0.1" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout-w936dp/activity_login.xml" value="0.16922094508301405" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout/activity_addition_screen.xml" value="0.1" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout/activity_comparison_screen.xml" value="0.1" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout/activity_counting_screen.xml" value="0.1" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout/activity_home_screen.xml" value="0.12" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout/activity_learn_tables_screen.xml" value="0.12006578947368421" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout/activity_login.xml" value="0.1276872964169381" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout/activity_login_screen.xml" value="0.18" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout/activity_sign_up_screen.xml" value="0.14" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout/count_fragment.xml" value="0.18" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout/fragment_count.xml" value="0.18" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout/fragment_home.xml" value="0.15" />
+        <entry key="..\:/Hitakrit/Personal/Apps/MATH/app/src/main/res/layout/home_screen.xml" value="0.12894736842105264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

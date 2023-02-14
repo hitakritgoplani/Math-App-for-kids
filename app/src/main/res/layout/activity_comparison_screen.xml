@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightpurple"
+    android:orientation="horizontal"
+    tools:context=".ComparisonScreen">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:id="@+id/number_one"
+            android:layout_width="281dp"
+            android:layout_height="283dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="22dp"
+            android:layout_marginEnd="520dp"
+            android:background="@drawable/rounded_corners_white"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="65dp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/number_two"
+            android:layout_width="281dp"
+            android:layout_height="283dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="518dp"
+            android:layout_marginTop="22dp"
+            android:layout_marginEnd="30dp"
+            android:background="@drawable/rounded_corners_white"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="65dp">
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="225dp"
+            android:layout_height="0dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="186dp"
+            android:layout_marginBottom="14dp"
+            android:text="TextView" />
+
+        <Button
+            android:id="@+id/equalto"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="356dp"
+            android:layout_marginTop="121dp"
+            android:layout_marginEnd="348dp"
+            android:background="@drawable/pink_button"
+            android:fontFamily="monospace"
+            android:text="@string/equal"
+            android:textSize="55dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/less"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="354dp"
+            android:layout_marginTop="232dp"
+            android:layout_marginEnd="351dp"
+            android:background="@drawable/pink_button"
+            android:fontFamily="monospace"
+            android:text="@string/less"
+            android:textSize="55dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/greater"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="355dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="349dp"
+            android:background="@drawable/pink_button"
+            android:fontFamily="monospace"
+            android:text="@string/greater"
+            android:textSize="55dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="779dp"
+            android:layout_marginBottom="292dp" />
+
+    </RelativeLayout>
+
+</ScrollView>
