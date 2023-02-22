@@ -31,7 +31,7 @@ public class SignUpScreen extends AppCompatActivity {
             public void onClick(View view) {
                 db.execSQL("INSERT INTO users VALUES('"+nickname.getText()+"', '"+email.getText()+"','"+password.getText()+"');");
                 Toast.makeText(getApplicationContext(),"You are registered successfully", Toast.LENGTH_LONG).show();
-                Intent mintent = new Intent(getApplicationContext(), MainActivity.class);
+                Intent mintent = new Intent(getApplicationContext(), HomeScreen.class);
                 startActivity(mintent);
             }
         });
