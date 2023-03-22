@@ -1,5 +1,4 @@
 # Math-App-for-kids
-Mobile Computing Lab Project
 
 Screenshots of the Application
 
